@@ -16,7 +16,7 @@ public class Application {
         tetraPoints.add(new Point_3D(50,50,0));
         tetraPoints.add(new Point_3D(0,50,0));
         // Тетраэдр
-        Creator.createTetrahedron(tetraPoints);
+        //Creator.createTetrahedron(tetraPoints);
     }
 
 
